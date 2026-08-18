@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_zappa",
+  "name": "Frank Zappa",
+  "external_ids": {
+    "wikidata": "Q127330",
+    "imdb": "nm0953261"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 1993
+}

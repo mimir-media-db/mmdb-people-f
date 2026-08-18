@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_witter",
+  "name": "Frank Witter",
+  "external_ids": {
+    "wikidata": "Q18169576",
+    "imdb": "nm1143644"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
