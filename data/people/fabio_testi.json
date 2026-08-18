@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fabio_testi",
+  "name": "Fabio Testi",
+  "external_ids": {
+    "wikidata": "Q739291",
+    "imdb": "nm0601377"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

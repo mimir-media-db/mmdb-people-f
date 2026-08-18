@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_whaley",
+  "name": "Frank Whaley",
+  "external_ids": {
+    "wikidata": "Q240774",
+    "imdb": "nm0001844"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

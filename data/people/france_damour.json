@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_france_damour",
+  "name": "France D'Amour",
+  "external_ids": {
+    "wikidata": "Q3080696",
+    "imdb": "nm0195190"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

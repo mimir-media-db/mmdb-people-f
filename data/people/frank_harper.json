@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_harper",
+  "name": "Frank Harper",
+  "external_ids": {
+    "wikidata": "Q1139433",
+    "imdb": "nm0363857"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

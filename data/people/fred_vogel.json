@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_vogel",
+  "name": "Fred Vogel",
+  "external_ids": {
+    "wikidata": "Q3752664",
+    "imdb": "nm1651758"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
