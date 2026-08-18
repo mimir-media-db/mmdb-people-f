@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_franka_much",
+  "name": "Franka Much",
+  "external_ids": {
+    "wikidata": "Q1444539",
+    "imdb": "nm1997879"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

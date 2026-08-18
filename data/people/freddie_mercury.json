@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_freddie_mercury",
+  "name": "Freddie Mercury",
+  "external_ids": {
+    "wikidata": "Q15869",
+    "imdb": "nm0006198"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 1991
+}

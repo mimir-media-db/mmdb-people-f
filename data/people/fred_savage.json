@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_savage",
+  "name": "Fred Savage",
+  "external_ids": {
+    "wikidata": "Q447392",
+    "imdb": "nm0000625"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}
