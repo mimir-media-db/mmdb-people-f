@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_frith",
+  "name": "Fred Frith",
+  "external_ids": {
+    "wikidata": "Q460325",
+    "imdb": "nm0295947"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

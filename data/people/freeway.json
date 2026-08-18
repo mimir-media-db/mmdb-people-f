@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_freeway",
+  "name": "Freeway",
+  "external_ids": {
+    "wikidata": "Q536526",
+    "imdb": "nm1085396"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

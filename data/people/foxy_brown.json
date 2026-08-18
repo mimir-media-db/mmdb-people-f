@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_foxy_brown",
+  "name": "Foxy Brown",
+  "external_ids": {
+    "wikidata": "Q242620",
+    "imdb": "nm0113564"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

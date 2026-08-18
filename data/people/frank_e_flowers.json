@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_e_flowers",
+  "name": "Frank E. Flowers",
+  "external_ids": {
+    "wikidata": "Q5486369",
+    "imdb": "nm1248193"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
