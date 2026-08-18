@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fruit_chan",
+  "name": "Fruit Chan",
+  "external_ids": {
+    "wikidata": "Q704027",
+    "imdb": "nm0150897"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

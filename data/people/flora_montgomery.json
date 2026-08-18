@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_flora_montgomery",
+  "name": "Flora Montgomery",
+  "external_ids": {
+    "wikidata": "Q274300",
+    "imdb": "nm0599778"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_williamson",
+  "name": "Fred Williamson",
+  "external_ids": {
+    "wikidata": "Q1452569",
+    "imdb": "nm0004365"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

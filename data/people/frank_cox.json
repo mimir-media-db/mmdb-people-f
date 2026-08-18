@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_cox",
+  "name": "Frank Cox",
+  "external_ids": {
+    "wikidata": "Q5486011",
+    "imdb": "nm0185020"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2021
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_stallone",
+  "name": "Frank Stallone",
+  "external_ids": {
+    "wikidata": "Q959153",
+    "imdb": "nm0821734"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

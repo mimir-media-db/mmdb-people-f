@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_wood",
+  "name": "Frank Wood",
+  "external_ids": {
+    "wikidata": "Q3082862",
+    "imdb": "nm0939703"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

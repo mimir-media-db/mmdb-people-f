@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_vincent",
+  "name": "Frank Vincent",
+  "external_ids": {
+    "wikidata": "Q463407",
+    "imdb": "nm0898634"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2017
+}

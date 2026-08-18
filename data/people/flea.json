@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_flea",
+  "name": "Flea",
+  "external_ids": {
+    "wikidata": "Q202859",
+    "imdb": "nm0281359"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
