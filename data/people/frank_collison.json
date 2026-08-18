@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_collison",
+  "name": "Frank Collison",
+  "external_ids": {
+    "wikidata": "Q645626",
+    "imdb": "nm0172806"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

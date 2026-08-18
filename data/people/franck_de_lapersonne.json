@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_franck_de_lapersonne",
+  "name": "Franck de Lapersonne",
+  "external_ids": {
+    "wikidata": "Q3082317",
+    "imdb": "nm0478817"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

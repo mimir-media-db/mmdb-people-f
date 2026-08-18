@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_wolf",
+  "name": "Fred Wolf",
+  "external_ids": {
+    "wikidata": "Q16195870",
+    "imdb": "nm0937748"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

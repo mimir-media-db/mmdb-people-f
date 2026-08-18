@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_dryer",
+  "name": "Fred Dryer",
+  "external_ids": {
+    "wikidata": "Q721031",
+    "imdb": "nm0004885"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

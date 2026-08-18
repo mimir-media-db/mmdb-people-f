@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_gun",
+  "name": "Frank Gun",
+  "external_ids": {
+    "wikidata": "Q2292563",
+    "imdb": "nm0272283"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}
