@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_miller",
+  "name": "Frank Miller",
+  "external_ids": {
+    "wikidata": "Q207676",
+    "imdb": "nm0588340"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

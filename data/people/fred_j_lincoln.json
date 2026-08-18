@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_j_lincoln",
+  "name": "Fred J. Lincoln",
+  "external_ids": {
+    "wikidata": "Q5495565",
+    "imdb": "nm0511107"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1936,
+  "death_year": 2013
+}
