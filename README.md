@@ -1,2 +1,3 @@
-# mmdb-people-f
-MMDB People — F
+# MMDB People — F
+
+People whose slug starts with 'f'.
