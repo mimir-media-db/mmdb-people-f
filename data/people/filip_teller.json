@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_filip_teller",
+  "name": "Filip Teller",
+  "external_ids": {
+    "wikidata": "Q102898283",
+    "imdb": "nm10177394"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1991,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fisher_stevens",
+  "name": "Fisher Stevens",
+  "external_ids": {
+    "wikidata": "Q464169",
+    "imdb": "nm0001770"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1963,
+  "death_year": null
+}

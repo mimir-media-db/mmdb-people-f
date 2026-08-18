@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ford_austin",
+  "name": "Ford Austin",
+  "external_ids": {
+    "wikidata": "Q113946359",
+    "imdb": "nm1284939"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

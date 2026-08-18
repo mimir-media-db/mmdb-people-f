@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_franka_potente",
+  "name": "Franka Potente",
+  "external_ids": {
+    "wikidata": "Q65105",
+    "imdb": "nm0004376"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1974,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fatos_segmen",
+  "name": "Fatoş Seğmen",
+  "external_ids": {
+    "wikidata": "Q6059830",
+    "imdb": "nm1768053"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1982,
+  "death_year": null
+}

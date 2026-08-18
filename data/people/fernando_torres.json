@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fernando_torres",
+  "name": "Fernando Torres",
+  "external_ids": {
+    "wikidata": "Q42731",
+    "imdb": "nm1895576"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1984,
+  "death_year": null
+}
