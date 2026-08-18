@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_felix_german",
+  "name": "Félix Germán",
+  "external_ids": {
+    "wikidata": "Q106266016",
+    "imdb": "nm0314606"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

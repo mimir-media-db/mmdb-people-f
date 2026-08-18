@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fiona_sit",
+  "name": "Fiona Sit",
+  "external_ids": {
+    "wikidata": "Q3272513",
+    "imdb": "nm1894038"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
