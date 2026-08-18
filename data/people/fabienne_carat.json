@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fabienne_carat",
+  "name": "Fabienne Carat",
+  "external_ids": {
+    "wikidata": "Q3063683",
+    "imdb": "nm1783021"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

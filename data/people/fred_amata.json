@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_amata",
+  "name": "Fred Amata",
+  "external_ids": {
+    "wikidata": "Q23662909",
+    "imdb": "nm1676074"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

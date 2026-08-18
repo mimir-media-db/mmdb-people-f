@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_durst",
+  "name": "Fred Durst",
+  "external_ids": {
+    "wikidata": "Q44707",
+    "imdb": "nm0004890"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

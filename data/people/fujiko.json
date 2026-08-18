@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fujiko",
+  "name": "Fujiko",
+  "external_ids": {
+    "wikidata": "Q3090593",
+    "imdb": "nm1024345"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

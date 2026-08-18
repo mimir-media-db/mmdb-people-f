@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_francois_mitterrand",
+  "name": "François Mitterrand",
+  "external_ids": {
+    "wikidata": "Q2038",
+    "imdb": "nm0594137"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1916,
+  "death_year": 1996
+}
