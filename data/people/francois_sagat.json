@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_francois_sagat",
+  "name": "François Sagat",
+  "external_ids": {
+    "wikidata": "Q561686",
+    "imdb": "nm2088684"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1979,
+  "death_year": null
+}

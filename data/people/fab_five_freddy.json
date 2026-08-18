@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fab_five_freddy",
+  "name": "Fab Five Freddy",
+  "external_ids": {
+    "wikidata": "Q958532",
+    "imdb": "nm0292735"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1959,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_delmare",
+  "name": "Fred Delmare",
+  "external_ids": {
+    "wikidata": "Q314513",
+    "imdb": "nm0217570"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1922,
+  "death_year": 2009
+}

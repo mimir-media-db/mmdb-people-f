@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_finn_wittrock",
+  "name": "Finn Wittrock",
+  "external_ids": {
+    "wikidata": "Q5450687",
+    "imdb": "nm1587729"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1984,
+  "death_year": null
+}

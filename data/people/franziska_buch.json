@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_franziska_buch",
+  "name": "Franziska Buch",
+  "external_ids": {
+    "wikidata": "Q118634",
+    "imdb": "nm0117929"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1960,
+  "death_year": null
+}
