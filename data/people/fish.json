@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fish",
+  "name": "Fish",
+  "external_ids": {
+    "wikidata": "Q317441",
+    "imdb": "nm0279258"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

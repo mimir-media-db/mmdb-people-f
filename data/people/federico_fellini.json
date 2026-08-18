@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_federico_fellini",
+  "name": "Federico Fellini",
+  "external_ids": {
+    "wikidata": "Q7371",
+    "imdb": "nm0000019"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 1993
+}
