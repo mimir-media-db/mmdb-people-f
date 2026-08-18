@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_capra",
+  "name": "Frank Capra",
+  "external_ids": {
+    "wikidata": "Q51492",
+    "imdb": "nm0001008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1897,
+  "death_year": 1991
+}
