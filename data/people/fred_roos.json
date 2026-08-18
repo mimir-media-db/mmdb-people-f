@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_roos",
+  "name": "Fred Roos",
+  "external_ids": {
+    "wikidata": "Q2675693",
+    "imdb": "nm0740407"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2024
+}

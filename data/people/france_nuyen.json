@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_france_nuyen",
+  "name": "France Nuyen",
+  "external_ids": {
+    "wikidata": "Q455876",
+    "imdb": "nm0638395"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}
