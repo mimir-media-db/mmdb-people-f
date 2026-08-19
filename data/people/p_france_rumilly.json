@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_france_rumilly",
+  "name": "France Rumilly",
+  "external_ids": {
+    "wikidata": "Q438984",
+    "imdb": "nm0750114"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1939
+}
