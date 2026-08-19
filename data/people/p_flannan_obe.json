@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_flannan_obe",
+  "name": "Flannan Obé",
+  "external_ids": {
+    "wikidata": "Q3073351",
+    "imdb": "nm0643579"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

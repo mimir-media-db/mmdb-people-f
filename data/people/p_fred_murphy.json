@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_murphy",
+  "name": "Fred Murphy",
+  "external_ids": {
+    "wikidata": "Q1003717",
+    "imdb": "nm0002320"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942
+}
