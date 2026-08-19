@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_flore_bonaventura",
+  "name": "Flore Bonaventura",
+  "external_ids": {
+    "wikidata": "Q15198578",
+    "imdb": "nm3693486"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

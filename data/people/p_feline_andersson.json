@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_feline_andersson",
+  "name": "Feline Andersson",
+  "external_ids": {
+    "wikidata": "Q113141380",
+    "imdb": "nm4854612"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}

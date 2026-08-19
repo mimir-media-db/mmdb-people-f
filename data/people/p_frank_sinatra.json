@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_sinatra",
+  "name": "Frank Sinatra",
+  "external_ids": {
+    "wikidata": "Q40912",
+    "imdb": "nm0000069"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1915,
+  "death_year": 1998
+}

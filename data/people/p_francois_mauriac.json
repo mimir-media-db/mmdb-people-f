@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_francois_mauriac",
+  "name": "François Mauriac",
+  "external_ids": {
+    "wikidata": "Q81685",
+    "imdb": "nm0561095"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1885,
+  "death_year": 1970
+}
