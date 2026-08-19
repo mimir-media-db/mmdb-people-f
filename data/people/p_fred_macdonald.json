@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_macdonald",
+  "name": "Fred MacDonald",
+  "external_ids": {
+    "wikidata": "Q16006431",
+    "imdb": "nm0531720"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1894,
+  "death_year": 1967
+}
