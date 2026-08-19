@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_friedrich_durrenmatt",
+  "name": "Friedrich Dürrenmatt",
+  "external_ids": {
+    "wikidata": "Q23481",
+    "imdb": "nm0246959"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1921,
+  "death_year": 1990
+}

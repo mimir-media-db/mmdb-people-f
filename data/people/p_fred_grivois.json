@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_grivois",
+  "name": "Fred Grivois",
+  "external_ids": {
+    "wikidata": "Q55597004",
+    "imdb": "nm3797522"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
