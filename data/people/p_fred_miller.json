@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_miller",
+  "name": "Fred Miller",
+  "external_ids": {
+    "wikidata": "Q5495949",
+    "imdb": "nm0972237"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}
