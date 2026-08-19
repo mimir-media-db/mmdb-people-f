@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_rogers",
+  "name": "Fred Rogers",
+  "external_ids": {
+    "wikidata": "Q1275768",
+    "imdb": "nm0736872"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2003
+}

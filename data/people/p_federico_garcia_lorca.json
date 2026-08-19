@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_federico_garcia_lorca",
+  "name": "Federico García Lorca",
+  "external_ids": {
+    "wikidata": "Q41408",
+    "imdb": "nm0305030"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1898,
+  "death_year": 1936
+}

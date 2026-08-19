@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fares_helou",
+  "name": "Fares Helou",
+  "external_ids": {
+    "wikidata": "Q12230053",
+    "imdb": "nm1097214"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

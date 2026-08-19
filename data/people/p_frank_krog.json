@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_krog",
+  "name": "Frank Krog",
+  "external_ids": {
+    "wikidata": "Q1929677",
+    "imdb": "nm0471903"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954,
+  "death_year": 2008
+}
