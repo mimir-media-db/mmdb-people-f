@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_north",
+  "name": "Fred North",
+  "external_ids": {
+    "wikidata": "Q121365479",
+    "imdb": "nm14271604"
+  },
+  "last_updated": "2026-08-19"
+}

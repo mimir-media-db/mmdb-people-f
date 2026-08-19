@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_fantasy_a",
+  "name": "Fantasy A",
+  "external_ids": {
+    "wikidata": "Q122830480",
+    "imdb": "nm15112534"
+  },
+  "last_updated": "2026-08-19"
+}
