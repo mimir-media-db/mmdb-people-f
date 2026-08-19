@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_mottek",
+  "name": "Frank Mottek",
+  "external_ids": {
+    "wikidata": "Q19880937",
+    "imdb": "nm3816936"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

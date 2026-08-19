@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_rich",
+  "name": "Frank Rich",
+  "external_ids": {
+    "wikidata": "Q5489205",
+    "imdb": "nm1586829"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
