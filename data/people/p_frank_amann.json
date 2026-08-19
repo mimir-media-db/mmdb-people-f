@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_amann",
+  "name": "Frank Amann",
+  "external_ids": {
+    "wikidata": "Q24045945",
+    "imdb": "nm0023901"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}
