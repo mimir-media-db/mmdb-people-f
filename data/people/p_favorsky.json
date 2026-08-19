@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_favorsky",
+  "name": "Favorsky",
+  "external_ids": {
+    "wikidata": "Q139594362",
+    "imdb": "nm16942914"
+  },
+  "last_updated": "2026-08-19"
+}
