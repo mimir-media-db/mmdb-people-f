@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_maire",
+  "name": "Fred Maire",
+  "external_ids": {
+    "wikidata": "Q1452432",
+    "imdb": "nm0537854"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932,
+  "death_year": 2020
+}

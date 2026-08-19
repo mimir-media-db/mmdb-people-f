@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_freida_lee_mock",
+  "name": "Freida Lee Mock",
+  "external_ids": {
+    "wikidata": "Q950808",
+    "imdb": "nm0595131"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

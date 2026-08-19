@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fabolous",
+  "name": "Fabolous",
+  "external_ids": {
+    "wikidata": "Q349420",
+    "imdb": "nm1244543"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

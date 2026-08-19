@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_stella",
+  "name": "Frank Stella",
+  "external_ids": {
+    "wikidata": "Q375268",
+    "imdb": "nm0826299"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1936,
+  "death_year": 2024
+}
