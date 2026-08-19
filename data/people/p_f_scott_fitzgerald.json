@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_f_scott_fitzgerald",
+  "name": "F. Scott Fitzgerald",
+  "external_ids": {
+    "wikidata": "Q93354",
+    "imdb": "nm0280234"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1896,
+  "death_year": 1940
+}
