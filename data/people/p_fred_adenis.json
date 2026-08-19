@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_adenis",
+  "name": "Fred Adenis",
+  "external_ids": {
+    "wikidata": "Q52154371",
+    "imdb": "nm7278202"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
