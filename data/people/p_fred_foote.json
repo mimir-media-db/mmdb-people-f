@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_foote",
+  "name": "Fred Foote",
+  "external_ids": {
+    "wikidata": "Q124283485",
+    "imdb": "nm3622861"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_thompson",
+  "name": "Fred Thompson",
+  "external_ids": {
+    "wikidata": "Q298016",
+    "imdb": "nm0000669"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942,
+  "death_year": 2015
+}

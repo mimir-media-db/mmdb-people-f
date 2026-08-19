@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_freddy_olsson",
+  "name": "Freddy Olsson",
+  "external_ids": {
+    "wikidata": "Q110956976",
+    "imdb": "nm0648049"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

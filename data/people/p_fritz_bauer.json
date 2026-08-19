@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fritz_bauer",
+  "name": "Fritz Bauer",
+  "external_ids": {
+    "wikidata": "Q215981",
+    "imdb": "nm2655061"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1903,
+  "death_year": 1968
+}

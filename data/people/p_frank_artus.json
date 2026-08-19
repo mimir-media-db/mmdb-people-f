@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_artus",
+  "name": "Frank Artus",
+  "external_ids": {
+    "wikidata": "Q30557994",
+    "imdb": "nm4379904"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
