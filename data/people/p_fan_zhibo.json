@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fan_zhibo",
+  "name": "Fan Zhibo",
+  "external_ids": {
+    "wikidata": "Q15934672",
+    "imdb": "nm3278425"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

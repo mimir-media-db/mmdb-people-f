@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_cavaye",
+  "name": "Fred Cavayé",
+  "external_ids": {
+    "wikidata": "Q3086808",
+    "imdb": "nm0146991"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
