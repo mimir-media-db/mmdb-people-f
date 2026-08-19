@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_amugi",
+  "name": "Fred Amugi",
+  "external_ids": {
+    "wikidata": "Q58009028",
+    "imdb": "nm1265108"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
