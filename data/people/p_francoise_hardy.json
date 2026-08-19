@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_francoise_hardy",
+  "name": "Françoise Hardy",
+  "external_ids": {
+    "wikidata": "Q53939",
+    "imdb": "nm0362634"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944,
+  "death_year": 2024
+}
