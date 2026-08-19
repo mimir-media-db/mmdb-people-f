@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_hechinger",
+  "name": "Fred Hechinger",
+  "external_ids": {
+    "wikidata": "Q104902570",
+    "imdb": "nm9538520"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fin_argus",
+  "name": "Fin Argus",
+  "external_ids": {
+    "wikidata": "Q97738008",
+    "imdb": "nm4591107"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
