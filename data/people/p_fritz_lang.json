@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fritz_lang",
+  "name": "Fritz Lang",
+  "external_ids": {
+    "wikidata": "Q19504",
+    "imdb": "nm0000485"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1890,
+  "death_year": 1976
+}

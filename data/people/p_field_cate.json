@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_field_cate",
+  "name": "Field Cate",
+  "external_ids": {
+    "wikidata": "Q2568880",
+    "imdb": "nm1669817"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
