@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_tousch",
+  "name": "Fred Tousch",
+  "external_ids": {
+    "wikidata": "Q15069877",
+    "imdb": "nm3001876"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

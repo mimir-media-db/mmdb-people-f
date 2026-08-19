@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_felicity_jones",
+  "name": "Felicity Jones",
+  "external_ids": {
+    "wikidata": "Q234447",
+    "imdb": "nm0428065"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
