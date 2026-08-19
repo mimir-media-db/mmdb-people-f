@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fiki_naki",
+  "name": "Fiki Naki",
+  "external_ids": {
+    "wikidata": "Q137260659",
+    "imdb": "nm18677317"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
