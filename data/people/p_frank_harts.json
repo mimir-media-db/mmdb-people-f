@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_harts",
+  "name": "Frank Harts",
+  "external_ids": {
+    "wikidata": "Q17183005",
+    "imdb": "nm1320715"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
