@@ -4529,6 +4529,12 @@
     "path": "data/people/p_fay_dewitt.json"
   },
   {
+    "id": "p_fay_lovsky",
+    "name": "Fay Lovsky",
+    "birth_year": 1955,
+    "path": "data/people/p_fay_lovsky.json"
+  },
+  {
     "id": "p_fay_masterson",
     "name": "Fay Masterson",
     "birth_year": 1974,
@@ -6079,6 +6085,12 @@
     "id": "p_felix_baekelandt",
     "name": "Felix Baekelandt",
     "path": "data/people/p_felix_baekelandt.json"
+  },
+  {
+    "id": "p_felix_benesch",
+    "name": "Felix Benesch",
+    "birth_year": 1963,
+    "path": "data/people/p_felix_benesch.json"
   },
   {
     "id": "p_felix_binder",
@@ -8820,6 +8832,12 @@
     "path": "data/people/p_ferry_doedens.json"
   },
   {
+    "id": "p_ferry_fernandez",
+    "name": "Ferry Fernandez",
+    "birth_year": 1983,
+    "path": "data/people/p_ferry_fernandez.json"
+  },
+  {
     "id": "p_ferry_gustian",
     "name": "Ferry Gustian",
     "birth_year": 1986,
@@ -8967,6 +8985,12 @@
     "name": "Fidel de la Cruz",
     "birth_year": 1992,
     "path": "data/people/p_fidel_de_la_cruz.json"
+  },
+  {
+    "id": "p_fidel_gamboa",
+    "name": "Fidel Gamboa",
+    "birth_year": 1961,
+    "path": "data/people/p_fidel_gamboa.json"
   },
   {
     "id": "p_fidel_gomez",
@@ -9309,6 +9333,12 @@
     "name": "Filip Jankovič",
     "birth_year": 1985,
     "path": "data/people/p_filip_jankovic.json"
+  },
+  {
+    "id": "p_filip_jelinek",
+    "name": "Filip Jelínek",
+    "birth_year": 1971,
+    "path": "data/people/p_filip_jelinek.json"
   },
   {
     "id": "p_filip_juszczyk",
@@ -11501,6 +11531,12 @@
     "id": "p_florencia_davidzon",
     "name": "Florencia Davidzon",
     "path": "data/people/p_florencia_davidzon.json"
+  },
+  {
+    "id": "p_florencia_di_concilio",
+    "name": "Florencia Di Concilio",
+    "birth_year": 1979,
+    "path": "data/people/p_florencia_di_concilio.json"
   },
   {
     "id": "p_florencia_iwabuti",
@@ -13817,6 +13853,12 @@
     "path": "data/people/p_francesco_cordio.json"
   },
   {
+    "id": "p_francesco_costa",
+    "name": "Francesco Costa",
+    "birth_year": 1946,
+    "path": "data/people/p_francesco_costa.json"
+  },
+  {
     "id": "p_francesco_costabile",
     "name": "Francesco Costabile",
     "birth_year": 1980,
@@ -14286,6 +14328,12 @@
     "name": "Francesco Vitiello",
     "birth_year": 1981,
     "path": "data/people/p_francesco_vitiello.json"
+  },
+  {
+    "id": "p_francesco_zampaglione",
+    "name": "Francesco Zampaglione",
+    "birth_year": 1970,
+    "path": "data/people/p_francesco_zampaglione.json"
   },
   {
     "id": "p_francesco_zarzana",
@@ -17911,6 +17959,12 @@
     "path": "data/people/p_frank_hall_green.json"
   },
   {
+    "id": "p_frank_hannah",
+    "name": "Frank Hannah",
+    "birth_year": 1971,
+    "path": "data/people/p_frank_hannah.json"
+  },
+  {
     "id": "p_frank_harper",
     "name": "Frank Harper",
     "birth_year": 1962,
@@ -18363,6 +18417,12 @@
     "id": "p_frank_olivier_ndema",
     "name": "Frank Olivier Ndema",
     "path": "data/people/p_frank_olivier_ndema.json"
+  },
+  {
+    "id": "p_frank_opperman",
+    "name": "Frank Opperman",
+    "birth_year": 1960,
+    "path": "data/people/p_frank_opperman.json"
   },
   {
     "id": "p_frank_otto",
@@ -20134,6 +20194,12 @@
     "name": "Fırat Tanış",
     "birth_year": 1975,
     "path": "data/people/p_frat_tans.json"
+  },
+  {
+    "id": "p_frat_yukselir",
+    "name": "Fırat Yükselir",
+    "birth_year": 1980,
+    "path": "data/people/p_frat_yukselir.json"
   },
   {
     "id": "p_frauke_finsterwalder",
@@ -22311,6 +22377,12 @@
     "path": "data/people/p_fredrik_stenberg_ditlevsimonsen.json"
   },
   {
+    "id": "p_fredrik_t_olsson",
+    "name": "Fredrik T. Olsson",
+    "birth_year": 1969,
+    "path": "data/people/p_fredrik_t_olsson.json"
+  },
+  {
     "id": "p_fredrik_virtanen",
     "name": "Fredrik Virtanen",
     "birth_year": 1971,
@@ -22797,6 +22869,12 @@
     "name": "Friedl Kubelka",
     "birth_year": 1945,
     "path": "data/people/p_friedl_kubelka.json"
+  },
+  {
+    "id": "p_friedrich_ani",
+    "name": "Friedrich Ani",
+    "birth_year": 1959,
+    "path": "data/people/p_friedrich_ani.json"
   },
   {
     "id": "p_friedrich_bohm",
