@@ -1024,6 +1024,12 @@
     "path": "data/people/p_fabio_troiano.json"
   },
   {
+    "id": "p_fabio_vacchi",
+    "name": "Fabio Vacchi",
+    "birth_year": 1949,
+    "path": "data/people/p_fabio_vacchi.json"
+  },
+  {
     "id": "p_fabio_viscogliosi",
     "name": "Fabio Viscogliosi",
     "birth_year": 1964,
@@ -1300,6 +1306,12 @@
     "name": "Fabrice Rodriguez",
     "birth_year": 1968,
     "path": "data/people/p_fabrice_rodriguez.json"
+  },
+  {
+    "id": "p_fabrice_roger_lacan",
+    "name": "Fabrice Roger Lacan",
+    "birth_year": 1966,
+    "path": "data/people/p_fabrice_roger_lacan.json"
   },
   {
     "id": "p_fabrice_scott",
@@ -2932,6 +2944,12 @@
     "path": "data/people/p_fardhosa_ali_mohamed.json"
   },
   {
+    "id": "p_fardin_khalatbari",
+    "name": "Fardin Khal'atbari",
+    "birth_year": 1963,
+    "path": "data/people/p_fardin_khalatbari.json"
+  },
+  {
     "id": "p_fardin_sahebzamani",
     "name": "Fardin Saheb-Zamani",
     "path": "data/people/p_fardin_sahebzamani.json"
@@ -3290,6 +3308,12 @@
     "name": "Farid Larbi",
     "birth_year": 1974,
     "path": "data/people/p_farid_larbi.json"
+  },
+  {
+    "id": "p_farid_mostafavi",
+    "name": "Farid Mostafavi",
+    "birth_year": 1954,
+    "path": "data/people/p_farid_mostafavi.json"
   },
   {
     "id": "p_farid_regragui",
@@ -7143,6 +7167,12 @@
     "path": "data/people/p_ferenc_hujber.json"
   },
   {
+    "id": "p_ferenc_javori",
+    "name": "Ferenc Jávori",
+    "birth_year": 1945,
+    "path": "data/people/p_ferenc_javori.json"
+  },
+  {
     "id": "p_ferenc_kallai",
     "name": "Ferenc Kállai",
     "birth_year": 1925,
@@ -7409,6 +7439,12 @@
     "name": "Fernán Rudnik",
     "birth_year": 1969,
     "path": "data/people/p_fernan_rudnik.json"
+  },
+  {
+    "id": "p_fernand_auwera",
+    "name": "Fernand Auwera",
+    "birth_year": 1929,
+    "path": "data/people/p_fernand_auwera.json"
   },
   {
     "id": "p_fernand_dansereau",
@@ -7738,6 +7774,12 @@
     "path": "data/people/p_fernando_bilbao.json"
   },
   {
+    "id": "p_fernando_bonassi",
+    "name": "Fernando Bonassi",
+    "birth_year": 1961,
+    "path": "data/people/p_fernando_bonassi.json"
+  },
+  {
     "id": "p_fernando_bovaira",
     "name": "Fernando Bovaira",
     "path": "data/people/p_fernando_bovaira.json"
@@ -7758,6 +7800,12 @@
     "name": "Fernando Caruso",
     "birth_year": 1981,
     "path": "data/people/p_fernando_caruso.json"
+  },
+  {
+    "id": "p_fernando_castets",
+    "name": "Fernando Castets",
+    "birth_year": 1959,
+    "path": "data/people/p_fernando_castets.json"
   },
   {
     "id": "p_fernando_cavenaghi",
@@ -7868,6 +7916,12 @@
     "id": "p_fernando_diaz",
     "name": "Fernando Díaz",
     "path": "data/people/p_fernando_diaz.json"
+  },
+  {
+    "id": "p_fernando_egozcue",
+    "name": "Fernando Egozcue",
+    "birth_year": 1959,
+    "path": "data/people/p_fernando_egozcue.json"
   },
   {
     "id": "p_fernando_eimbcke",
@@ -8979,6 +9033,12 @@
     "name": "Filip Čolović",
     "birth_year": 1978,
     "path": "data/people/p_filip_colovic.json"
+  },
+  {
+    "id": "p_filip_david",
+    "name": "Filip David",
+    "birth_year": 1940,
+    "path": "data/people/p_filip_david.json"
   },
   {
     "id": "p_filip_detelic",
@@ -12112,6 +12172,11 @@
     "path": "data/people/p_fm_einheit.json"
   },
   {
+    "id": "p_fm_le_sieur",
+    "name": "FM Le Sieur",
+    "path": "data/people/p_fm_le_sieur.json"
+  },
+  {
     "id": "p_foad_hosseini",
     "name": "Foad Hosseini",
     "birth_year": 1997,
@@ -13131,6 +13196,12 @@
     "path": "data/people/p_francesca_manieri.json"
   },
   {
+    "id": "p_francesca_marciano",
+    "name": "Francesca Marciano",
+    "birth_year": 1955,
+    "path": "data/people/p_francesca_marciano.json"
+  },
+  {
     "id": "p_francesca_marino",
     "name": "Francesca Marino",
     "birth_year": 1989,
@@ -13850,6 +13921,12 @@
     "name": "Francesco Sarcina",
     "birth_year": 1976,
     "path": "data/people/p_francesco_sarcina.json"
+  },
+  {
+    "id": "p_francesco_sartori",
+    "name": "Francesco Sartori",
+    "birth_year": 1956,
+    "path": "data/people/p_francesco_sartori.json"
   },
   {
     "id": "p_francesco_sbano",
@@ -15378,6 +15455,12 @@
     "path": "data/people/p_franco_diogene.json"
   },
   {
+    "id": "p_franco_ferrini",
+    "name": "Franco Ferrini",
+    "birth_year": 1944,
+    "path": "data/people/p_franco_ferrini.json"
+  },
+  {
     "id": "p_franco_finocchiaro",
     "name": "Franco Finocchiaro",
     "path": "data/people/p_franco_finocchiaro.json"
@@ -15745,6 +15828,12 @@
     "name": "François Caillat",
     "birth_year": 1951,
     "path": "data/people/p_francois_caillat.json"
+  },
+  {
+    "id": "p_francois_camirand",
+    "name": "François Camirand",
+    "birth_year": 1956,
+    "path": "data/people/p_francois_camirand.json"
   },
   {
     "id": "p_francois_caron",
@@ -17135,6 +17224,12 @@
     "name": "Frank Deal",
     "birth_year": 1958,
     "path": "data/people/p_frank_deal.json"
+  },
+  {
+    "id": "p_frank_deasy",
+    "name": "Frank Deasy",
+    "birth_year": 1959,
+    "path": "data/people/p_frank_deasy.json"
   },
   {
     "id": "p_frank_dejiulio",
@@ -18929,6 +19024,12 @@
     "path": "data/people/p_frantisek_paul.json"
   },
   {
+    "id": "p_frantisek_pavlicek",
+    "name": "František Pavlíček",
+    "birth_year": 1923,
+    "path": "data/people/p_frantisek_pavlicek.json"
+  },
+  {
     "id": "p_frantisek_plevka",
     "name": "František Plevka",
     "path": "data/people/p_frantisek_plevka.json"
@@ -20531,6 +20632,12 @@
     "path": "data/people/p_frederic_desager.json"
   },
   {
+    "id": "p_frederic_devreese",
+    "name": "Frédéric Devreese",
+    "birth_year": 1929,
+    "path": "data/people/p_frederic_devreese.json"
+  },
+  {
     "id": "p_frederic_diefenthal",
     "name": "Frédéric Diefenthal",
     "birth_year": 1968,
@@ -21471,6 +21578,12 @@
     "path": "data/people/p_fredi_m_murer.json"
   },
   {
+    "id": "p_fredric_brown",
+    "name": "Fredric Brown",
+    "birth_year": 1906,
+    "path": "data/people/p_fredric_brown.json"
+  },
+  {
     "id": "p_fredric_lehne",
     "name": "Fredric Lehne",
     "birth_year": 1959,
@@ -22400,6 +22513,11 @@
     "path": "data/people/p_fritz_ofner.json"
   },
   {
+    "id": "p_fritz_pedersen",
+    "name": "Fritz Pedersen",
+    "path": "data/people/p_fritz_pedersen.json"
+  },
+  {
     "id": "p_fritz_poppenberg",
     "name": "Fritz Poppenberg",
     "birth_year": 1948,
@@ -22510,6 +22628,12 @@
     "name": "Fruit Chan",
     "birth_year": 1959,
     "path": "data/people/p_fruit_chan.json"
+  },
+  {
+    "id": "p_frunzik_mkrtchyan",
+    "name": "Frunzik Mkrtchyan",
+    "birth_year": 1930,
+    "path": "data/people/p_frunzik_mkrtchyan.json"
   },
   {
     "id": "p_fruzsina_hais",
@@ -23054,6 +23178,12 @@
     "name": "Furio Andreotti",
     "birth_year": 1965,
     "path": "data/people/p_furio_andreotti.json"
+  },
+  {
+    "id": "p_furio_scarpelli",
+    "name": "Furio Scarpelli",
+    "birth_year": 1919,
+    "path": "data/people/p_furio_scarpelli.json"
   },
   {
     "id": "p_furkan_andc",
