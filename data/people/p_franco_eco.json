@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_franco_eco",
+  "name": "Franco Eco",
+  "external_ids": {
+    "wikidata": "Q28924405",
+    "imdb": "nm4204049"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
