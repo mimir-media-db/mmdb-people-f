@@ -896,6 +896,12 @@
     "path": "data/people/p_fabio_giubbani.json"
   },
   {
+    "id": "p_fabio_goes",
+    "name": "Fabio Góes",
+    "birth_year": 1975,
+    "path": "data/people/p_fabio_goes.json"
+  },
+  {
     "id": "p_fabio_golombek",
     "name": "Fabio Golombek",
     "path": "data/people/p_fabio_golombek.json"
@@ -1185,6 +1191,12 @@
     "name": "Fabrice Adde",
     "birth_year": 1978,
     "path": "data/people/p_fabrice_adde.json"
+  },
+  {
+    "id": "p_fabrice_arfi",
+    "name": "Fabrice Arfi",
+    "birth_year": 1981,
+    "path": "data/people/p_fabrice_arfi.json"
   },
   {
     "id": "p_fabrice_barrilliet",
@@ -4792,6 +4804,11 @@
     "path": "data/people/p_fayez_almalki.json"
   },
   {
+    "id": "p_fayez_saraya",
+    "name": "Fayez Saraya",
+    "path": "data/people/p_fayez_saraya.json"
+  },
+  {
     "id": "p_fayolle_jean",
     "name": "Fayolle Jean",
     "birth_year": 1953,
@@ -6496,6 +6513,11 @@
     "id": "p_felix_israel_pinilla_de_la_guia",
     "name": "Félix Israel Pinilla De La Guia",
     "path": "data/people/p_felix_israel_pinilla_de_la_guia.json"
+  },
+  {
+    "id": "p_felix_k_nesi",
+    "name": "Felix K. Nesi",
+    "path": "data/people/p_felix_k_nesi.json"
   },
   {
     "id": "p_felix_kammerer",
@@ -23554,6 +23576,12 @@
     "name": "Friedemann Fromm",
     "birth_year": 1963,
     "path": "data/people/p_friedemann_fromm.json"
+  },
+  {
+    "id": "p_friedemann_karig",
+    "name": "Friedemann Karig",
+    "birth_year": 1981,
+    "path": "data/people/p_friedemann_karig.json"
   },
   {
     "id": "p_frieder_scheiffele",
