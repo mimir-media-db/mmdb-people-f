@@ -45,6 +45,11 @@
     "path": "data/people/p_f_paul_fromm.json"
   },
   {
+    "id": "p_f_s_faizal",
+    "name": "F. S. Faizal",
+    "path": "data/people/p_f_s_faizal.json"
+  },
+  {
     "id": "p_f_scott_fitzgerald",
     "name": "F. Scott Fitzgerald",
     "birth_year": 1896,
@@ -684,6 +689,12 @@
     "name": "Fabio Balsamo",
     "birth_year": 1989,
     "path": "data/people/p_fabio_balsamo.json"
+  },
+  {
+    "id": "p_fabio_barovero",
+    "name": "Fabio Barovero",
+    "birth_year": 1966,
+    "path": "data/people/p_fabio_barovero.json"
   },
   {
     "id": "p_fabio_barreto",
@@ -3042,6 +3053,12 @@
     "path": "data/people/p_farhad_samji.json"
   },
   {
+    "id": "p_farhad_tohidi",
+    "name": "Farhad Tohidi",
+    "birth_year": 1956,
+    "path": "data/people/p_farhad_tohidi.json"
+  },
+  {
     "id": "p_farhan_ahmed_jovan",
     "name": "Farhan Ahmed Jovan",
     "path": "data/people/p_farhan_ahmed_jovan.json"
@@ -3376,6 +3393,12 @@
     "name": "Farimah Farjami",
     "birth_year": 1952,
     "path": "data/people/p_farimah_farjami.json"
+  },
+  {
+    "id": "p_faris_badwan",
+    "name": "Faris Badwan",
+    "birth_year": 1986,
+    "path": "data/people/p_faris_badwan.json"
   },
   {
     "id": "p_faris_endris_rahoma",
@@ -3860,6 +3883,12 @@
     "name": "Fatiha Berber",
     "birth_year": 1945,
     "path": "data/people/p_fatiha_berber.json"
+  },
+  {
+    "id": "p_fatihya_abdi",
+    "name": "Fatihya Abdi",
+    "birth_year": 1990,
+    "path": "data/people/p_fatihya_abdi.json"
   },
   {
     "id": "p_fatima_abdul_raheem",
@@ -4710,6 +4739,12 @@
     "name": "Federico Amador",
     "birth_year": 1975,
     "path": "data/people/p_federico_amador.json"
+  },
+  {
+    "id": "p_federico_baccomo",
+    "name": "Federico Baccomo",
+    "birth_year": 1978,
+    "path": "data/people/p_federico_baccomo.json"
   },
   {
     "id": "p_federico_bal",
@@ -6216,6 +6251,11 @@
     "path": "data/people/p_felix_meinhardt.json"
   },
   {
+    "id": "p_felix_mendez",
+    "name": "Félix Méndez",
+    "path": "data/people/p_felix_mendez.json"
+  },
+  {
     "id": "p_felix_meyburgh_jr",
     "name": "Felix Meyburgh Jr",
     "path": "data/people/p_felix_meyburgh_jr.json"
@@ -6753,6 +6793,12 @@
     "id": "p_fenna_sempels",
     "name": "Fenna Sempels",
     "path": "data/people/p_fenna_sempels.json"
+  },
+  {
+    "id": "p_fennesz",
+    "name": "Fennesz",
+    "birth_year": 1962,
+    "path": "data/people/p_fennesz.json"
   },
   {
     "id": "p_fenriz",
@@ -8306,6 +8352,12 @@
     "path": "data/people/p_fernando_vargas.json"
   },
   {
+    "id": "p_fernando_velazquez",
+    "name": "Fernando Velázquez",
+    "birth_year": 1976,
+    "path": "data/people/p_fernando_velazquez.json"
+  },
+  {
     "id": "p_fernando_vendrell",
     "name": "Fernando Vendrell",
     "birth_year": 1962,
@@ -9054,6 +9106,12 @@
     "name": "Filip Minařík",
     "birth_year": 1979,
     "path": "data/people/p_filip_minarik.json"
+  },
+  {
+    "id": "p_filip_misek",
+    "name": "Filip Míšek",
+    "birth_year": 1980,
+    "path": "data/people/p_filip_misek.json"
   },
   {
     "id": "p_filip_muller",
@@ -11504,6 +11562,12 @@
     "path": "data/people/p_florian_homm.json"
   },
   {
+    "id": "p_florian_horwath",
+    "name": "Florian Horwath",
+    "birth_year": 1971,
+    "path": "data/people/p_florian_horwath.json"
+  },
+  {
     "id": "p_florian_innerebner",
     "name": "Florian Innerebner",
     "birth_year": 1988,
@@ -12429,6 +12493,12 @@
     "path": "data/people/p_franca_sozzani.json"
   },
   {
+    "id": "p_franca_treur",
+    "name": "Franca Treur",
+    "birth_year": 1979,
+    "path": "data/people/p_franca_treur.json"
+  },
+  {
     "id": "p_franca_valeri",
     "name": "Franca Valeri",
     "birth_year": 1920,
@@ -12681,6 +12751,12 @@
     "name": "Francesc Garrido",
     "birth_year": 1967,
     "path": "data/people/p_francesc_garrido.json"
+  },
+  {
+    "id": "p_francesc_gener",
+    "name": "Francesc Gener",
+    "birth_year": 1966,
+    "path": "data/people/p_francesc_gener.json"
   },
   {
     "id": "p_francesc_lucchetti_i_farre",
@@ -12982,6 +13058,12 @@
     "name": "Francesca Lodo",
     "birth_year": 1982,
     "path": "data/people/p_francesca_lodo.json"
+  },
+  {
+    "id": "p_francesca_manieri",
+    "name": "Francesca Manieri",
+    "birth_year": 1978,
+    "path": "data/people/p_francesca_manieri.json"
   },
   {
     "id": "p_francesca_marino",
@@ -13379,6 +13461,12 @@
     "name": "Francesco Del Grosso",
     "birth_year": 1982,
     "path": "data/people/p_francesco_del_grosso.json"
+  },
+  {
+    "id": "p_francesco_di_fiore",
+    "name": "Francesco Di Fiore",
+    "birth_year": 1966,
+    "path": "data/people/p_francesco_di_fiore.json"
   },
   {
     "id": "p_francesco_di_leva",
@@ -14139,6 +14227,12 @@
     "id": "p_francis_la_haye",
     "name": "Francis La Haye",
     "path": "data/people/p_francis_la_haye.json"
+  },
+  {
+    "id": "p_francis_lai",
+    "name": "Francis Lai",
+    "birth_year": 1932,
+    "path": "data/people/p_francis_lai.json"
   },
   {
     "id": "p_francis_lalanne",
@@ -14954,6 +15048,11 @@
     "path": "data/people/p_franck_landron.json"
   },
   {
+    "id": "p_franck_lascombes",
+    "name": "Franck Lascombes",
+    "path": "data/people/p_franck_lascombes.json"
+  },
+  {
     "id": "p_franck_llopis",
     "name": "Franck Llopis",
     "birth_year": 1952,
@@ -15229,6 +15328,12 @@
     "name": "Franco Giraldi",
     "birth_year": 1931,
     "path": "data/people/p_franco_giraldi.json"
+  },
+  {
+    "id": "p_franco_godi",
+    "name": "Franco Godi",
+    "birth_year": 1940,
+    "path": "data/people/p_franco_godi.json"
   },
   {
     "id": "p_franco_graziosi",
@@ -16397,6 +16502,12 @@
     "path": "data/people/p_francoise_decauxthomelet.json"
   },
   {
+    "id": "p_francoise_dorner",
+    "name": "Françoise Dorner",
+    "birth_year": 1949,
+    "path": "data/people/p_francoise_dorner.json"
+  },
+  {
     "id": "p_francoise_dubois",
     "name": "Françoise Dubois",
     "birth_year": 1947,
@@ -16548,6 +16659,12 @@
     "name": "François-Eric Gendron",
     "birth_year": 1954,
     "path": "data/people/p_francoiseric_gendron.json"
+  },
+  {
+    "id": "p_francoiseudes_chanfrault",
+    "name": "François-Eudes Chanfrault",
+    "birth_year": 1974,
+    "path": "data/people/p_francoiseudes_chanfrault.json"
   },
   {
     "id": "p_francoismarie_banier",
@@ -16869,6 +16986,12 @@
     "name": "Frank Coraci",
     "birth_year": 1966,
     "path": "data/people/p_frank_coraci.json"
+  },
+  {
+    "id": "p_frank_cottrellboyce",
+    "name": "Frank Cottrell-Boyce",
+    "birth_year": 1959,
+    "path": "data/people/p_frank_cottrellboyce.json"
   },
   {
     "id": "p_frank_cox",
@@ -17249,6 +17372,12 @@
     "path": "data/people/p_frank_hopf.json"
   },
   {
+    "id": "p_frank_houtappels",
+    "name": "Frank Houtappels",
+    "birth_year": 1967,
+    "path": "data/people/p_frank_houtappels.json"
+  },
+  {
     "id": "p_frank_hoyt_taylor",
     "name": "Frank Hoyt Taylor",
     "birth_year": 1952,
@@ -17264,6 +17393,12 @@
     "id": "p_frank_hui_hok_man",
     "name": "Frank Hui Hok Man",
     "path": "data/people/p_frank_hui_hok_man.json"
+  },
+  {
+    "id": "p_frank_ilfman",
+    "name": "Frank Ilfman",
+    "birth_year": 1970,
+    "path": "data/people/p_frank_ilfman.json"
   },
   {
     "id": "p_frank_j_monteleone",
@@ -20158,6 +20293,12 @@
     "path": "data/people/p_frederic_balekdjian.json"
   },
   {
+    "id": "p_frederic_begin",
+    "name": "Frédéric Bégin",
+    "birth_year": 1975,
+    "path": "data/people/p_frederic_begin.json"
+  },
+  {
     "id": "p_frederic_beigbeder",
     "name": "Frédéric Beigbeder",
     "birth_year": 1965,
@@ -20246,6 +20387,12 @@
     "name": "Frédéric Choffat",
     "birth_year": 1973,
     "path": "data/people/p_frederic_choffat.json"
+  },
+  {
+    "id": "p_frederic_chopin",
+    "name": "Frédéric Chopin",
+    "birth_year": 1810,
+    "path": "data/people/p_frederic_chopin.json"
   },
   {
     "id": "p_frederic_clou",
@@ -20776,6 +20923,12 @@
     "path": "data/people/p_frederic_vaysse.json"
   },
   {
+    "id": "p_frederic_vercheval",
+    "name": "Frédéric Vercheval",
+    "birth_year": 1967,
+    "path": "data/people/p_frederic_vercheval.json"
+  },
+  {
     "id": "p_frederic_videau",
     "name": "Frédéric Videau",
     "birth_year": 1964,
@@ -21077,6 +21230,12 @@
     "path": "data/people/p_frederik_von_luttichau.json"
   },
   {
+    "id": "p_frederik_wiedmann",
+    "name": "Frederik Wiedmann",
+    "birth_year": 1981,
+    "path": "data/people/p_frederik_wiedmann.json"
+  },
+  {
     "id": "p_frederik_winther_rasmussen",
     "name": "Frederik Winther Rasmussen",
     "birth_year": 1998,
@@ -21260,6 +21419,12 @@
     "name": "Fredrik Egerstrand",
     "birth_year": 1967,
     "path": "data/people/p_fredrik_egerstrand.json"
+  },
+  {
+    "id": "p_fredrik_emilson",
+    "name": "Fredrik Emilson",
+    "birth_year": 1971,
+    "path": "data/people/p_fredrik_emilson.json"
   },
   {
     "id": "p_fredrik_evers",
@@ -22770,6 +22935,12 @@
     "name": "Furat al Jamil",
     "birth_year": 1965,
     "path": "data/people/p_furat_al_jamil.json"
+  },
+  {
+    "id": "p_furio_andreotti",
+    "name": "Furio Andreotti",
+    "birth_year": 1965,
+    "path": "data/people/p_furio_andreotti.json"
   },
   {
     "id": "p_furkan_andc",
