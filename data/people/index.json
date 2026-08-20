@@ -353,6 +353,12 @@
     "path": "data/people/p_fabian_svegaard_tapia.json"
   },
   {
+    "id": "p_fabian_torsson",
+    "name": "Fabian Torsson",
+    "birth_year": 1964,
+    "path": "data/people/p_fabian_torsson.json"
+  },
+  {
     "id": "p_fabian_van_dongen",
     "name": "Fabian van Dongen",
     "path": "data/people/p_fabian_van_dongen.json"
@@ -517,6 +523,12 @@
     "id": "p_fabien_moine",
     "name": "Fabien Moine",
     "path": "data/people/p_fabien_moine.json"
+  },
+  {
+    "id": "p_fabien_nury",
+    "name": "Fabien Nury",
+    "birth_year": 1976,
+    "path": "data/people/p_fabien_nury.json"
   },
   {
     "id": "p_fabien_onteniente",
@@ -15361,6 +15373,12 @@
     "path": "data/people/p_franck_gastambide.json"
   },
   {
+    "id": "p_franck_gelibert",
+    "name": "Franck Gélibert",
+    "birth_year": 1965,
+    "path": "data/people/p_franck_gelibert.json"
+  },
+  {
     "id": "p_franck_godard",
     "name": "Franck Godard",
     "path": "data/people/p_franck_godard.json"
@@ -16705,6 +16723,12 @@
     "name": "François Smesny",
     "birth_year": 1968,
     "path": "data/people/p_francois_smesny.json"
+  },
+  {
+    "id": "p_francois_sourou_okioh",
+    "name": "François Sourou Okioh",
+    "birth_year": 1949,
+    "path": "data/people/p_francois_sourou_okioh.json"
   },
   {
     "id": "p_francois_sylvestre",
@@ -19005,6 +19029,12 @@
     "path": "data/people/p_franky_martin.json"
   },
   {
+    "id": "p_franky_ribbens",
+    "name": "Franky Ribbens",
+    "birth_year": 1970,
+    "path": "data/people/p_franky_ribbens.json"
+  },
+  {
     "id": "p_franky_van_dorst",
     "name": "Franky van Dorst",
     "path": "data/people/p_franky_van_dorst.json"
@@ -20492,6 +20522,12 @@
     "path": "data/people/p_fred_vogel.json"
   },
   {
+    "id": "p_fred_vogels",
+    "name": "Fred Vogels",
+    "birth_year": 1954,
+    "path": "data/people/p_fred_vogels.json"
+  },
+  {
     "id": "p_fred_ward",
     "name": "Fred Ward",
     "birth_year": 1942,
@@ -20652,6 +20688,12 @@
     "path": "data/people/p_freddie_thorp.json"
   },
   {
+    "id": "p_freddie_wadling",
+    "name": "Freddie Wadling",
+    "birth_year": 1951,
+    "path": "data/people/p_freddie_wadling.json"
+  },
+  {
     "id": "p_freddie_wilkinson",
     "name": "Freddie Wilkinson",
     "path": "data/people/p_freddie_wilkinson.json"
@@ -20697,6 +20739,12 @@
     "name": "Freddy Carter",
     "birth_year": 1993,
     "path": "data/people/p_freddy_carter.json"
+  },
+  {
+    "id": "p_freddy_cole",
+    "name": "Freddy Cole",
+    "birth_year": 1931,
+    "path": "data/people/p_freddy_cole.json"
   },
   {
     "id": "p_freddy_dalton",
@@ -20805,6 +20853,12 @@
     "name": "Frédéric Beigbeder",
     "birth_year": 1965,
     "path": "data/people/p_frederic_beigbeder.json"
+  },
+  {
+    "id": "p_frederic_beliergarcia",
+    "name": "Frédéric Bélier-Garcia",
+    "birth_year": 1965,
+    "path": "data/people/p_frederic_beliergarcia.json"
   },
   {
     "id": "p_frederic_bellaiche",
