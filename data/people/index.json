@@ -6554,6 +6554,12 @@
     "path": "data/people/p_felix_limardo.json"
   },
   {
+    "id": "p_felix_lobrecht",
+    "name": "Felix Lobrecht",
+    "birth_year": 1988,
+    "path": "data/people/p_felix_lobrecht.json"
+  },
+  {
     "id": "p_felix_lok",
     "name": "Felix Lok",
     "birth_year": 1953,
@@ -12030,6 +12036,12 @@
     "path": "data/people/p_florent_vassault.json"
   },
   {
+    "id": "p_florent_vintrigner",
+    "name": "Florent Vintrigner",
+    "birth_year": 1952,
+    "path": "data/people/p_florent_vintrigner.json"
+  },
+  {
     "id": "p_florent_vollant",
     "name": "Florent Vollant",
     "birth_year": 1959,
@@ -12495,6 +12507,12 @@
     "id": "p_florian_plag",
     "name": "Florian Plag",
     "path": "data/people/p_florian_plag.json"
+  },
+  {
+    "id": "p_florian_plumeyer",
+    "name": "Florian Plumeyer",
+    "birth_year": 1982,
+    "path": "data/people/p_florian_plumeyer.json"
   },
   {
     "id": "p_florian_reiners",
@@ -13202,6 +13220,11 @@
     "id": "p_fowzi_guerdjou",
     "name": "Fowzi Guerdjou",
     "path": "data/people/p_fowzi_guerdjou.json"
+  },
+  {
+    "id": "p_foxtrott",
+    "name": "Foxtrott",
+    "path": "data/people/p_foxtrott.json"
   },
   {
     "id": "p_foxxy",
@@ -22702,6 +22725,11 @@
     "path": "data/people/p_frederik_steiner.json"
   },
   {
+    "id": "p_frederik_van_de_moortel",
+    "name": "Frederik Van de Moortel",
+    "path": "data/people/p_frederik_van_de_moortel.json"
+  },
+  {
     "id": "p_frederik_von_luttichau",
     "name": "Frederik von Lüttichau",
     "birth_year": 1987,
@@ -22985,6 +23013,12 @@
     "name": "Fredrik Horn Akselsen",
     "birth_year": 1982,
     "path": "data/people/p_fredrik_horn_akselsen.json"
+  },
+  {
+    "id": "p_fredrik_hyer",
+    "name": "Fredrik Høyer",
+    "birth_year": 1988,
+    "path": "data/people/p_fredrik_hyer.json"
   },
   {
     "id": "p_fredrik_lexfors",
