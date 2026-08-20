@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_opperman",
+  "name": "Frank Opperman",
+  "external_ids": {
+    "wikidata": "Q5488814",
+    "imdb": "nm0649212"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
