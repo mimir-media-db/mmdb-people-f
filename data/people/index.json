@@ -182,6 +182,12 @@
     "path": "data/people/p_fabian_daub.json"
   },
   {
+    "id": "p_fabian_delgado",
+    "name": "Fabián Delgado",
+    "birth_year": 1966,
+    "path": "data/people/p_fabian_delgado.json"
+  },
+  {
     "id": "p_fabian_fattore",
     "name": "Fabián Fattore",
     "path": "data/people/p_fabian_fattore.json"
@@ -1428,6 +1434,12 @@
     "name": "Fabrizio Bucci",
     "birth_year": 1979,
     "path": "data/people/p_fabrizio_bucci.json"
+  },
+  {
+    "id": "p_fabrizio_campanelli",
+    "name": "Fabrizio Campanelli",
+    "birth_year": 1973,
+    "path": "data/people/p_fabrizio_campanelli.json"
   },
   {
     "id": "p_fabrizio_castania",
@@ -3466,6 +3478,11 @@
     "name": "Farideh Daryamaj",
     "birth_year": 1956,
     "path": "data/people/p_farideh_daryamaj.json"
+  },
+  {
+    "id": "p_farideh_golbou",
+    "name": "Farideh Golbou",
+    "path": "data/people/p_farideh_golbou.json"
   },
   {
     "id": "p_farideh_sepahmansur",
@@ -6464,6 +6481,12 @@
     "path": "data/people/p_felix_roco.json"
   },
   {
+    "id": "p_felix_rodriguez",
+    "name": "Felix Rodriguez",
+    "birth_year": 1979,
+    "path": "data/people/p_felix_rodriguez.json"
+  },
+  {
     "id": "p_felix_romer",
     "name": "Felix Römer",
     "birth_year": 1960,
@@ -8694,6 +8717,12 @@
     "path": "data/people/p_feroze_khan.json"
   },
   {
+    "id": "p_ferraby_lionheart",
+    "name": "Ferraby Lionheart",
+    "birth_year": 1977,
+    "path": "data/people/p_ferraby_lionheart.json"
+  },
+  {
     "id": "p_ferran_adria",
     "name": "Ferran Adrià",
     "birth_year": 1961,
@@ -10515,6 +10544,12 @@
     "name": "Firrina Sinatrya",
     "birth_year": 1988,
     "path": "data/people/p_firrina_sinatrya.json"
+  },
+  {
+    "id": "p_firudin_allahverdi",
+    "name": "Firudin Allahverdi",
+    "birth_year": 1980,
+    "path": "data/people/p_firudin_allahverdi.json"
   },
   {
     "id": "p_firuza_rahmanova",
@@ -13616,6 +13651,12 @@
     "path": "data/people/p_francesco_arico.json"
   },
   {
+    "id": "p_francesco_arlanch",
+    "name": "Francesco Arlanch",
+    "birth_year": 1975,
+    "path": "data/people/p_francesco_arlanch.json"
+  },
+  {
     "id": "p_francesco_baccini",
     "name": "Francesco Baccini",
     "birth_year": 1960,
@@ -14353,6 +14394,12 @@
     "path": "data/people/p_francine_mcdougall.json"
   },
   {
+    "id": "p_francine_oomen",
+    "name": "Francine Oomen",
+    "birth_year": 1960,
+    "path": "data/people/p_francine_oomen.json"
+  },
+  {
     "id": "p_francine_pelletier",
     "name": "Francine Pelletier",
     "birth_year": 1954,
@@ -15061,6 +15108,12 @@
     "id": "p_francisco_godinez_galay",
     "name": "Francisco Godinez Galay",
     "path": "data/people/p_francisco_godinez_galay.json"
+  },
+  {
+    "id": "p_francisco_gozon",
+    "name": "Francisco Gózon",
+    "birth_year": 1964,
+    "path": "data/people/p_francisco_gozon.json"
   },
   {
     "id": "p_francisco_j_ricardo",
@@ -17514,6 +17567,12 @@
     "path": "data/people/p_frank_crudele.json"
   },
   {
+    "id": "p_frank_dagostino",
+    "name": "Frank D'Agostino",
+    "birth_year": 1934,
+    "path": "data/people/p_frank_dagostino.json"
+  },
+  {
     "id": "p_frank_dangelo",
     "name": "Frank D'Angelo",
     "birth_year": 1959,
@@ -19163,6 +19222,12 @@
     "path": "data/people/p_frans_maas.json"
   },
   {
+    "id": "p_frans_mulder",
+    "name": "Frans Mulder",
+    "birth_year": 1953,
+    "path": "data/people/p_frans_mulder.json"
+  },
+  {
     "id": "p_frans_nicholas",
     "name": "Frans Nicholas",
     "birth_year": 1983,
@@ -20286,6 +20351,12 @@
     "path": "data/people/p_fred_foote.json"
   },
   {
+    "id": "p_fred_fortin",
+    "name": "Fred Fortin",
+    "birth_year": 1971,
+    "path": "data/people/p_fred_fortin.json"
+  },
+  {
     "id": "p_fred_frith",
     "name": "Fred Frith",
     "birth_year": 1949,
@@ -20501,6 +20572,12 @@
     "name": "Fred Schiller",
     "birth_year": 1904,
     "path": "data/people/p_fred_schiller.json"
+  },
+  {
+    "id": "p_fred_schreiber",
+    "name": "Fred Schreiber",
+    "birth_year": 1970,
+    "path": "data/people/p_fred_schreiber.json"
   },
   {
     "id": "p_fred_seibert",
@@ -21276,6 +21353,12 @@
     "name": "Frédéric Lemay",
     "birth_year": 1986,
     "path": "data/people/p_frederic_lemay.json"
+  },
+  {
+    "id": "p_frederic_lenoir",
+    "name": "Frédéric Lenoir",
+    "birth_year": 1962,
+    "path": "data/people/p_frederic_lenoir.json"
   },
   {
     "id": "p_frederic_lepage",
@@ -22342,6 +22425,12 @@
     "name": "Freida Pinto",
     "birth_year": 1984,
     "path": "data/people/p_freida_pinto.json"
+  },
+  {
+    "id": "p_freidoune_sahebjam",
+    "name": "Freidoune Sahebjam",
+    "birth_year": 1933,
+    "path": "data/people/p_freidoune_sahebjam.json"
   },
   {
     "id": "p_freja_berglund",
