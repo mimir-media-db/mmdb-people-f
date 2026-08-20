@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_mollin",
+  "name": "Fred Mollin",
+  "external_ids": {
+    "wikidata": "Q3086901",
+    "imdb": "nm0006204"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1953
+}
