@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fredric_brown",
+  "name": "Fredric Brown",
+  "external_ids": {
+    "wikidata": "Q363227",
+    "imdb": "nm0113582"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1906,
+  "death_year": 1972
+}
