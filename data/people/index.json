@@ -2365,6 +2365,12 @@
     "path": "data/people/p_fan_popo.json"
   },
   {
+    "id": "p_fan_vavrincova",
+    "name": "Fan Vavřincová",
+    "birth_year": 1917,
+    "path": "data/people/p_fan_vavrincova.json"
+  },
+  {
     "id": "p_fan_wei",
     "name": "Fan Wei",
     "birth_year": 1962,
@@ -6263,6 +6269,12 @@
     "path": "data/people/p_felix_granado.json"
   },
   {
+    "id": "p_felix_grande",
+    "name": "Félix Grande",
+    "birth_year": 1937,
+    "path": "data/people/p_felix_grande.json"
+  },
+  {
     "id": "p_felix_grimm",
     "name": "Felix Grimm",
     "birth_year": 1973,
@@ -6585,6 +6597,12 @@
     "id": "p_felix_thompson",
     "name": "Felix Thompson",
     "path": "data/people/p_felix_thompson.json"
+  },
+  {
+    "id": "p_felix_timmermans",
+    "name": "Felix Timmermans",
+    "birth_year": 1886,
+    "path": "data/people/p_felix_timmermans.json"
   },
   {
     "id": "p_felix_tissi",
@@ -9811,6 +9829,11 @@
     "path": "data/people/p_filippo_inzaghi.json"
   },
   {
+    "id": "p_filippo_kalomenidis",
+    "name": "Filippo Kalomenidis",
+    "path": "data/people/p_filippo_kalomenidis.json"
+  },
+  {
     "id": "p_filippo_luna",
     "name": "Filippo Luna",
     "birth_year": 1968,
@@ -10435,6 +10458,12 @@
     "name": "Fiorenza Tessari",
     "birth_year": 1968,
     "path": "data/people/p_fiorenza_tessari.json"
+  },
+  {
+    "id": "p_fiorenzo_carpi",
+    "name": "Fiorenzo Carpi",
+    "birth_year": 1918,
+    "path": "data/people/p_fiorenzo_carpi.json"
   },
   {
     "id": "p_fiorenzo_fiorentini",
@@ -16856,6 +16885,12 @@
     "path": "data/people/p_francois_sagat.json"
   },
   {
+    "id": "p_francois_sarano",
+    "name": "François Sarano",
+    "birth_year": 1954,
+    "path": "data/people/p_francois_sarano.json"
+  },
+  {
     "id": "p_francois_schuiten",
     "name": "François Schuiten",
     "birth_year": 1956,
@@ -19076,6 +19111,11 @@
     "name": "Frankie Shaw",
     "birth_year": 1986,
     "path": "data/people/p_frankie_shaw.json"
+  },
+  {
+    "id": "p_frankie_tam",
+    "name": "Frankie Tam",
+    "path": "data/people/p_frankie_tam.json"
   },
   {
     "id": "p_frankie_thorn",
@@ -22099,6 +22139,12 @@
     "path": "data/people/p_frederique_bel.json"
   },
   {
+    "id": "p_frederique_broos",
+    "name": "Frédérique Broos",
+    "birth_year": 1970,
+    "path": "data/people/p_frederique_broos.json"
+  },
+  {
     "id": "p_frederique_collin",
     "name": "Frédérique Collin",
     "birth_year": 1943,
@@ -22895,6 +22941,12 @@
     "path": "data/people/p_friedrich_g_beckhaus.json"
   },
   {
+    "id": "p_friedrich_gulda",
+    "name": "Friedrich Gulda",
+    "birth_year": 1930,
+    "path": "data/people/p_friedrich_gulda.json"
+  },
+  {
     "id": "p_friedrich_heine",
     "name": "Friedrich Heine",
     "birth_year": 1997,
@@ -23336,6 +23388,12 @@
     "id": "p_fuching_lin",
     "name": "Fu-ching Lin",
     "path": "data/people/p_fuching_lin.json"
+  },
+  {
+    "id": "p_fuchs_mc",
+    "name": "Fuchs MC",
+    "birth_year": 1975,
+    "path": "data/people/p_fuchs_mc.json"
   },
   {
     "id": "p_fuhsiang_hsu",
