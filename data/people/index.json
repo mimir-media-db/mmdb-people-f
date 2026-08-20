@@ -1430,6 +1430,12 @@
     "path": "data/people/p_fabrizio_bucci.json"
   },
   {
+    "id": "p_fabrizio_castania",
+    "name": "Fabrizio Castania",
+    "birth_year": 1976,
+    "path": "data/people/p_fabrizio_castania.json"
+  },
+  {
     "id": "p_fabrizio_cattani",
     "name": "Fabrizio Cattani",
     "birth_year": 1967,
@@ -1538,6 +1544,12 @@
     "id": "p_fabrizio_odetto",
     "name": "Fabrizio Odetto",
     "path": "data/people/p_fabrizio_odetto.json"
+  },
+  {
+    "id": "p_fabrizio_ostani",
+    "name": "Fabrizio Ostani",
+    "birth_year": 1952,
+    "path": "data/people/p_fabrizio_ostani.json"
   },
   {
     "id": "p_fabrizio_parenti",
@@ -2270,6 +2282,12 @@
     "name": "Falk Schacht",
     "birth_year": 1973,
     "path": "data/people/p_falk_schacht.json"
+  },
+  {
+    "id": "p_falk_zenker",
+    "name": "Falk Zenker",
+    "birth_year": 1966,
+    "path": "data/people/p_falk_zenker.json"
   },
   {
     "id": "p_falke_mikailsen",
@@ -4368,6 +4386,12 @@
     "path": "data/people/p_fausto_maule.json"
   },
   {
+    "id": "p_fausto_mesolella",
+    "name": "Fausto Mesolella",
+    "birth_year": 1953,
+    "path": "data/people/p_fausto_mesolella.json"
+  },
+  {
     "id": "p_fausto_molina",
     "name": "Fausto Molina",
     "path": "data/people/p_fausto_molina.json"
@@ -4497,6 +4521,12 @@
     "id": "p_fay_veldhof",
     "name": "Fay Veldhof",
     "path": "data/people/p_fay_veldhof.json"
+  },
+  {
+    "id": "p_fay_weldon",
+    "name": "Fay Weldon",
+    "birth_year": 1931,
+    "path": "data/people/p_fay_weldon.json"
   },
   {
     "id": "p_fay_wolf",
@@ -7782,6 +7812,12 @@
     "path": "data/people/p_fernando_aragon.json"
   },
   {
+    "id": "p_fernando_aramburu",
+    "name": "Fernando Aramburu",
+    "birth_year": 1959,
+    "path": "data/people/p_fernando_aramburu.json"
+  },
+  {
     "id": "p_fernando_arau",
     "name": "Fernando Arau",
     "birth_year": 1953,
@@ -10558,6 +10594,11 @@
     "path": "data/people/p_fivel_stewart.json"
   },
   {
+    "id": "p_fixi_bossard",
+    "name": "Fixi Bossard",
+    "path": "data/people/p_fixi_bossard.json"
+  },
+  {
     "id": "p_fiyin_gambo",
     "name": "Fiyin Gambo",
     "path": "data/people/p_fiyin_gambo.json"
@@ -13035,6 +13076,12 @@
     "name": "Francesc Colomer Estruch",
     "birth_year": 1997,
     "path": "data/people/p_francesc_colomer_estruch.json"
+  },
+  {
+    "id": "p_francesc_de_paula_barcelo_i_fortuny",
+    "name": "Francesc de Paula Barceló i Fortuny",
+    "birth_year": 1943,
+    "path": "data/people/p_francesc_de_paula_barcelo_i_fortuny.json"
   },
   {
     "id": "p_francesc_escribano_i_royo",
@@ -16245,6 +16292,12 @@
     "path": "data/people/p_francois_duval.json"
   },
   {
+    "id": "p_francois_emmanuel",
+    "name": "François Emmanuel",
+    "birth_year": 1951,
+    "path": "data/people/p_francois_emmanuel.json"
+  },
+  {
     "id": "p_francois_favrat",
     "name": "François Favrat",
     "birth_year": 1952,
@@ -17335,6 +17388,12 @@
     "name": "Frank Braña",
     "birth_year": 1934,
     "path": "data/people/p_frank_brana.json"
+  },
+  {
+    "id": "p_frank_bridge",
+    "name": "Frank Bridge",
+    "birth_year": 1879,
+    "path": "data/people/p_frank_bridge.json"
   },
   {
     "id": "p_frank_bruno",
@@ -19004,6 +19063,12 @@
     "id": "p_franklyn_jituboh",
     "name": "Franklyn Jituboh",
     "path": "data/people/p_franklyn_jituboh.json"
+  },
+  {
+    "id": "p_frankmarkus_barwasser",
+    "name": "Frank-Markus Barwasser",
+    "birth_year": 1960,
+    "path": "data/people/p_frankmarkus_barwasser.json"
   },
   {
     "id": "p_frankotto_schenk",
@@ -23708,6 +23773,12 @@
     "name": "Fyodor Bondarchuk",
     "birth_year": 1967,
     "path": "data/people/p_fyodor_bondarchuk.json"
+  },
+  {
+    "id": "p_fyodor_chistyakov",
+    "name": "Fyodor Chistyakov",
+    "birth_year": 1967,
+    "path": "data/people/p_fyodor_chistyakov.json"
   },
   {
     "id": "p_fyodor_dmitriyev",
