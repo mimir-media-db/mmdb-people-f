@@ -7486,6 +7486,12 @@
     "path": "data/people/p_ferhat_mouhali.json"
   },
   {
+    "id": "p_feri_lainscek",
+    "name": "Feri Lainšček",
+    "birth_year": 1959,
+    "path": "data/people/p_feri_lainscek.json"
+  },
+  {
     "id": "p_feride_cetin",
     "name": "Feride Çetin",
     "birth_year": 1980,
@@ -8423,6 +8429,12 @@
     "id": "p_fernando_montenegro",
     "name": "Fernando Montenegro",
     "path": "data/people/p_fernando_montenegro.json"
+  },
+  {
+    "id": "p_fernando_morais",
+    "name": "Fernando Morais",
+    "birth_year": 1945,
+    "path": "data/people/p_fernando_morais.json"
   },
   {
     "id": "p_fernando_moraleda",
@@ -11884,6 +11896,12 @@
     "path": "data/people/p_florian_frerichs.json"
   },
   {
+    "id": "p_florian_fricke",
+    "name": "Florian Fricke",
+    "birth_year": 1944,
+    "path": "data/people/p_florian_fricke.json"
+  },
+  {
     "id": "p_florian_frin",
     "name": "Florian Frin",
     "path": "data/people/p_florian_frin.json"
@@ -15215,6 +15233,12 @@
     "path": "data/people/p_francisco_javier_padilla.json"
   },
   {
+    "id": "p_francisco_javier_vazquez_maneiro",
+    "name": "Francisco Javier Vázquez Maneiro",
+    "birth_year": 1973,
+    "path": "data/people/p_francisco_javier_vazquez_maneiro.json"
+  },
+  {
     "id": "p_francisco_joaquin_paparella",
     "name": "Francisco Joaquín Paparella",
     "path": "data/people/p_francisco_joaquin_paparella.json"
@@ -15855,6 +15879,12 @@
     "path": "data/people/p_franco_diogene.json"
   },
   {
+    "id": "p_franco_eco",
+    "name": "Franco Eco",
+    "birth_year": 1984,
+    "path": "data/people/p_franco_eco.json"
+  },
+  {
     "id": "p_franco_ferrini",
     "name": "Franco Ferrini",
     "birth_year": 1944,
@@ -16332,6 +16362,12 @@
     "name": "François Cognard",
     "birth_year": 1962,
     "path": "data/people/p_francois_cognard.json"
+  },
+  {
+    "id": "p_francois_couturier",
+    "name": "François Couturier",
+    "birth_year": 1950,
+    "path": "data/people/p_francois_couturier.json"
   },
   {
     "id": "p_francois_creton",
