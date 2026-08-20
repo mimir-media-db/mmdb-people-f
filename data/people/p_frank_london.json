@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_london",
+  "name": "Frank London",
+  "external_ids": {
+    "wikidata": "Q505370",
+    "imdb": "nm0518698"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
