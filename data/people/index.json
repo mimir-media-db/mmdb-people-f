@@ -1698,6 +1698,11 @@
     "path": "data/people/p_fadel_saleh.json"
   },
   {
+    "id": "p_fadette_drouard",
+    "name": "Fadette Drouard",
+    "path": "data/people/p_fadette_drouard.json"
+  },
+  {
     "id": "p_fadhel_jaibi",
     "name": "Fadhel Jaïbi",
     "birth_year": 1945,
@@ -3205,6 +3210,12 @@
     "path": "data/people/p_farhad_harun.json"
   },
   {
+    "id": "p_farhad_katouei_zadeh",
+    "name": "Farhad Katouei Zadeh",
+    "birth_year": 1994,
+    "path": "data/people/p_farhad_katouei_zadeh.json"
+  },
+  {
     "id": "p_farhad_mann",
     "name": "Farhad Mann",
     "birth_year": 1949,
@@ -4117,6 +4128,12 @@
     "name": "Fatima Adoum",
     "birth_year": 1968,
     "path": "data/people/p_fatima_adoum.json"
+  },
+  {
+    "id": "p_fatima_al_qadiri",
+    "name": "Fatima Al Qadiri",
+    "birth_year": 1980,
+    "path": "data/people/p_fatima_al_qadiri.json"
   },
   {
     "id": "p_fatima_albanawi",
@@ -6649,6 +6666,12 @@
     "path": "data/people/p_felix_romer.json"
   },
   {
+    "id": "p_felix_rosch",
+    "name": "Felix Rösch",
+    "birth_year": 1984,
+    "path": "data/people/p_felix_rosch.json"
+  },
+  {
     "id": "p_felix_rose",
     "name": "Félix Rose",
     "birth_year": 1987,
@@ -7864,6 +7887,11 @@
     "path": "data/people/p_fernanda_gentil.json"
   },
   {
+    "id": "p_fernanda_gutierrez",
+    "name": "Fernanda Gutiérrez",
+    "path": "data/people/p_fernanda_gutierrez.json"
+  },
+  {
     "id": "p_fernanda_lippi",
     "name": "Fernanda Lippi",
     "path": "data/people/p_fernanda_lippi.json"
@@ -8303,6 +8331,11 @@
     "name": "Fernando Frías de la Parra",
     "birth_year": 1979,
     "path": "data/people/p_fernando_frias_de_la_parra.json"
+  },
+  {
+    "id": "p_fernando_furones",
+    "name": "Fernando Furones",
+    "path": "data/people/p_fernando_furones.json"
   },
   {
     "id": "p_fernando_garcia_de_cortazar",
@@ -12430,6 +12463,11 @@
     "path": "data/people/p_florian_schwarz.json"
   },
   {
+    "id": "p_florian_siegmund",
+    "name": "Florian Siegmund",
+    "path": "data/people/p_florian_siegmund.json"
+  },
+  {
     "id": "p_florian_sigl",
     "name": "Florian Sigl",
     "path": "data/people/p_florian_sigl.json"
@@ -14345,6 +14383,11 @@
     "name": "Francesco Guerra",
     "birth_year": 1942,
     "path": "data/people/p_francesco_guerra.json"
+  },
+  {
+    "id": "p_francesco_guttuso",
+    "name": "Francesco Guttuso",
+    "path": "data/people/p_francesco_guttuso.json"
   },
   {
     "id": "p_francesco_henderson_pepe",
@@ -17119,6 +17162,11 @@
     "path": "data/people/p_francois_ozon.json"
   },
   {
+    "id": "p_francois_p_forcier",
+    "name": "François P. Forcier",
+    "path": "data/people/p_francois_p_forcier.json"
+  },
+  {
     "id": "p_francois_papineau",
     "name": "François Papineau",
     "birth_year": 1966,
@@ -17839,6 +17887,11 @@
     "id": "p_frank_bachler",
     "name": "Frank Bachler",
     "path": "data/people/p_frank_bachler.json"
+  },
+  {
+    "id": "p_frank_baldwin",
+    "name": "Frank Baldwin",
+    "path": "data/people/p_frank_baldwin.json"
   },
   {
     "id": "p_frank_baylis",
