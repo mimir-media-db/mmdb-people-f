@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_freddy_sheinfeld",
+  "name": "Freddy Sheinfeld",
+  "external_ids": {
+    "wikidata": "Q22281279",
+    "imdb": "nm1245800"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1974
+}
