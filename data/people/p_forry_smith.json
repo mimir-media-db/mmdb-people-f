@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_forry_smith",
+  "name": "Forry Smith",
+  "external_ids": {
+    "wikidata": "Q5470571",
+    "imdb": "nm0808211"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}

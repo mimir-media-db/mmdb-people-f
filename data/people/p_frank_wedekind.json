@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_wedekind",
+  "name": "Frank Wedekind",
+  "external_ids": {
+    "wikidata": "Q57619",
+    "imdb": "nm0917149"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1864,
+  "death_year": 1918
+}
