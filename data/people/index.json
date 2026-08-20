@@ -1512,6 +1512,12 @@
     "path": "data/people/p_fabrizio_ferraro.json"
   },
   {
+    "id": "p_fabrizio_fornaci",
+    "name": "Fabrizio Fornaci",
+    "birth_year": 1958,
+    "path": "data/people/p_fabrizio_fornaci.json"
+  },
+  {
     "id": "p_fabrizio_frizzi",
     "name": "Fabrizio Frizzi",
     "birth_year": 1958,
@@ -3879,6 +3885,11 @@
     "name": "Fasha Sandha",
     "birth_year": 1984,
     "path": "data/people/p_fasha_sandha.json"
+  },
+  {
+    "id": "p_fasi_bari_khan",
+    "name": "Fasi Bari Khan",
+    "path": "data/people/p_fasi_bari_khan.json"
   },
   {
     "id": "p_fat_joe",
@@ -6490,6 +6501,12 @@
     "path": "data/people/p_felix_meinhardt.json"
   },
   {
+    "id": "p_felix_mendelssohn",
+    "name": "Felix Mendelssohn",
+    "birth_year": 1809,
+    "path": "data/people/p_felix_mendelssohn.json"
+  },
+  {
     "id": "p_felix_mendez",
     "name": "Félix Méndez",
     "path": "data/people/p_felix_mendez.json"
@@ -9020,6 +9037,12 @@
     "path": "data/people/p_fezrul_khan.json"
   },
   {
+    "id": "p_fflur_dafydd",
+    "name": "Fflur Dafydd",
+    "birth_year": 1977,
+    "path": "data/people/p_fflur_dafydd.json"
+  },
+  {
     "id": "p_fhelipe_gomes",
     "name": "Fhelipe Gomes",
     "birth_year": 2001,
@@ -11039,6 +11062,12 @@
     "path": "data/people/p_flavio_pistilli.json"
   },
   {
+    "id": "p_flavio_premoli",
+    "name": "Flavio Premoli",
+    "birth_year": 1949,
+    "path": "data/people/p_flavio_premoli.json"
+  },
+  {
     "id": "p_flavio_ramos_tambellini",
     "name": "Flávio Ramos Tambellini",
     "birth_year": 1952,
@@ -12107,6 +12136,12 @@
     "path": "data/people/p_florian_innerebner.json"
   },
   {
+    "id": "p_florian_iwersen",
+    "name": "Florian Iwersen",
+    "birth_year": 1973,
+    "path": "data/people/p_florian_iwersen.json"
+  },
+  {
     "id": "p_florian_jahr",
     "name": "Florian Jahr",
     "birth_year": 1983,
@@ -12970,6 +13005,12 @@
     "name": "Framly Nainggolan",
     "birth_year": 1984,
     "path": "data/people/p_framly_nainggolan.json"
+  },
+  {
+    "id": "p_fran_araujo",
+    "name": "Fran Araújo",
+    "birth_year": 1979,
+    "path": "data/people/p_fran_araujo.json"
   },
   {
     "id": "p_fran_borgia",
@@ -14143,6 +14184,12 @@
     "path": "data/people/p_francesco_foti.json"
   },
   {
+    "id": "p_francesco_gabbani",
+    "name": "Francesco Gabbani",
+    "birth_year": 1982,
+    "path": "data/people/p_francesco_gabbani.json"
+  },
+  {
     "id": "p_francesco_garilli",
     "name": "Francesco Garilli",
     "path": "data/people/p_francesco_garilli.json"
@@ -15314,6 +15361,12 @@
     "name": "Francisco Espinosa Maestre",
     "birth_year": 1953,
     "path": "data/people/p_francisco_espinosa_maestre.json"
+  },
+  {
+    "id": "p_francisco_fattoruso",
+    "name": "Francisco Fattoruso",
+    "birth_year": 1979,
+    "path": "data/people/p_francisco_fattoruso.json"
   },
   {
     "id": "p_francisco_fernandez_de_rosa",
@@ -21290,6 +21343,12 @@
     "path": "data/people/p_freddy_rodriguez.json"
   },
   {
+    "id": "p_freddy_sheinfeld",
+    "name": "Freddy Sheinfeld",
+    "birth_year": 1974,
+    "path": "data/people/p_freddy_sheinfeld.json"
+  },
+  {
     "id": "p_freddy_tang_fujui",
     "name": "Freddy Tang Fu-jui",
     "path": "data/people/p_freddy_tang_fujui.json"
@@ -21656,6 +21715,11 @@
     "name": "Frederic Jouve",
     "birth_year": 1962,
     "path": "data/people/p_frederic_jouve.json"
+  },
+  {
+    "id": "p_frederic_julien",
+    "name": "Frédéric Julien",
+    "path": "data/people/p_frederic_julien.json"
   },
   {
     "id": "p_frederic_krivine",
@@ -22708,6 +22772,12 @@
     "name": "Fredrik Wikström Nicastro",
     "birth_year": 1978,
     "path": "data/people/p_fredrik_wikstrom_nicastro.json"
+  },
+  {
+    "id": "p_fredrika_stahl",
+    "name": "Fredrika Stahl",
+    "birth_year": 1984,
+    "path": "data/people/p_fredrika_stahl.json"
   },
   {
     "id": "p_fredro_starr",
