@@ -5415,6 +5415,11 @@
     "path": "data/people/p_federico_venzi.json"
   },
   {
+    "id": "p_federico_viescas",
+    "name": "Federico Viescas",
+    "path": "data/people/p_federico_viescas.json"
+  },
+  {
     "id": "p_federico_zampaglione",
     "name": "Federico Zampaglione",
     "birth_year": 1968,
@@ -5736,6 +5741,11 @@
     "name": "Felicity Dean",
     "birth_year": 1959,
     "path": "data/people/p_felicity_dean.json"
+  },
+  {
+    "id": "p_felicity_evans",
+    "name": "Felicity Evans",
+    "path": "data/people/p_felicity_evans.json"
   },
   {
     "id": "p_felicity_gilbert",
@@ -6622,6 +6632,11 @@
     "name": "Felix Osinga",
     "birth_year": 2002,
     "path": "data/people/p_felix_osinga.json"
+  },
+  {
+    "id": "p_felix_poirier",
+    "name": "Félix Poirier",
+    "path": "data/people/p_felix_poirier.json"
   },
   {
     "id": "p_felix_pustal",
@@ -14722,6 +14737,12 @@
     "path": "data/people/p_francesco_vitiello.json"
   },
   {
+    "id": "p_francesco_wilking",
+    "name": "Francesco Wilking",
+    "birth_year": 1973,
+    "path": "data/people/p_francesco_wilking.json"
+  },
+  {
     "id": "p_francesco_zampaglione",
     "name": "Francesco Zampaglione",
     "birth_year": 1970,
@@ -16519,6 +16540,12 @@
     "path": "data/people/p_francois_alu.json"
   },
   {
+    "id": "p_francois_archambault",
+    "name": "François Archambault",
+    "birth_year": 1968,
+    "path": "data/people/p_francois_archambault.json"
+  },
+  {
     "id": "p_francois_armanet",
     "name": "François Armanet",
     "birth_year": 1951,
@@ -17234,6 +17261,11 @@
     "name": "François Prévôt-Leygonie",
     "birth_year": 1967,
     "path": "data/people/p_francois_prevotleygonie.json"
+  },
+  {
+    "id": "p_francois_prodromides",
+    "name": "François Prodromidès",
+    "path": "data/people/p_francois_prodromides.json"
   },
   {
     "id": "p_francois_raffenaud",
@@ -22166,6 +22198,12 @@
     "name": "Frédéric Schoendoerffer",
     "birth_year": 1962,
     "path": "data/people/p_frederic_schoendoerffer.json"
+  },
+  {
+    "id": "p_frederic_schuld",
+    "name": "Frédéric Schuld",
+    "birth_year": 1984,
+    "path": "data/people/p_frederic_schuld.json"
   },
   {
     "id": "p_frederic_serve",
