@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_fred_schiller",
+  "name": "Fred Schiller",
+  "external_ids": {
+    "wikidata": "Q19279865",
+    "imdb": "nm0771622"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1904,
+  "death_year": 2003
+}
