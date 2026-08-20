@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_frank_bridge",
+  "name": "Frank Bridge",
+  "external_ids": {
+    "wikidata": "Q366636"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1879,
+  "death_year": 1941
+}
