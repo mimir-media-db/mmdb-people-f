@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_flake_lorenz",
+  "name": "Flake Lorenz",
+  "external_ids": {
+    "wikidata": "Q155687",
+    "imdb": "nm0520704"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
