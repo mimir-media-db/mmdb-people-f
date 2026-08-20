@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_freddy_cole",
+  "name": "Freddy Cole",
+  "external_ids": {
+    "wikidata": "Q180408",
+    "imdb": "nm1588236"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1931,
+  "death_year": 2020
+}
