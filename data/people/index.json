@@ -554,6 +554,12 @@
     "path": "data/people/p_fabien_pruvot.json"
   },
   {
+    "id": "p_fabien_suarez",
+    "name": "Fabien Suarez",
+    "birth_year": 1971,
+    "path": "data/people/p_fabien_suarez.json"
+  },
+  {
     "id": "p_fabien_waksman",
     "name": "Fabien Waksman",
     "birth_year": 1980,
@@ -849,6 +855,12 @@
     "name": "Fabio Frittelli",
     "birth_year": 1966,
     "path": "data/people/p_fabio_frittelli.json"
+  },
+  {
+    "id": "p_fabio_frizzi",
+    "name": "Fabio Frizzi",
+    "birth_year": 1951,
+    "path": "data/people/p_fabio_frizzi.json"
   },
   {
     "id": "p_fabio_fulco",
@@ -2233,6 +2245,12 @@
     "path": "data/people/p_falaha_hassan.json"
   },
   {
+    "id": "p_falak_shabir",
+    "name": "Falak Shabir",
+    "birth_year": 1989,
+    "path": "data/people/p_falak_shabir.json"
+  },
+  {
     "id": "p_falamak_joneidi",
     "name": "Falamak Joneidi",
     "birth_year": 1973,
@@ -2556,6 +2574,12 @@
     "name": "Fanny Carbonnel",
     "birth_year": 1988,
     "path": "data/people/p_fanny_carbonnel.json"
+  },
+  {
+    "id": "p_fanny_chesnel",
+    "name": "Fanny Chesnel",
+    "birth_year": 1980,
+    "path": "data/people/p_fanny_chesnel.json"
   },
   {
     "id": "p_fanny_cottencon",
@@ -4797,6 +4821,12 @@
     "path": "data/people/p_federica_biondi.json"
   },
   {
+    "id": "p_federica_bosco",
+    "name": "Federica Bosco",
+    "birth_year": 1971,
+    "path": "data/people/p_federica_bosco.json"
+  },
+  {
     "id": "p_federica_cifola",
     "name": "Federica Cifola",
     "birth_year": 1971,
@@ -5238,6 +5268,12 @@
     "id": "p_federico_sanchez",
     "name": "Federico Sanchez",
     "path": "data/people/p_federico_sanchez.json"
+  },
+  {
+    "id": "p_federico_schlatter",
+    "name": "Federico Schlatter",
+    "birth_year": 1962,
+    "path": "data/people/p_federico_schlatter.json"
   },
   {
     "id": "p_federico_schmukler",
@@ -6928,6 +6964,12 @@
     "name": "Feng Jiayi",
     "birth_year": 1969,
     "path": "data/people/p_feng_jiayi.json"
+  },
+  {
+    "id": "p_feng_jicai",
+    "name": "Feng Jicai",
+    "birth_year": 1942,
+    "path": "data/people/p_feng_jicai.json"
   },
   {
     "id": "p_feng_li",
@@ -15215,6 +15257,12 @@
     "path": "data/people/p_francisco_dintino.json"
   },
   {
+    "id": "p_francisco_espinosa_maestre",
+    "name": "Francisco Espinosa Maestre",
+    "birth_year": 1953,
+    "path": "data/people/p_francisco_espinosa_maestre.json"
+  },
+  {
     "id": "p_francisco_fernandez_de_rosa",
     "name": "Francisco Fernández de Rosa",
     "path": "data/people/p_francisco_fernandez_de_rosa.json"
@@ -15765,6 +15813,11 @@
     "name": "Franck Tiozzo",
     "birth_year": 1959,
     "path": "data/people/p_franck_tiozzo.json"
+  },
+  {
+    "id": "p_franck_vassal",
+    "name": "Franck Vassal",
+    "path": "data/people/p_franck_vassal.json"
   },
   {
     "id": "p_franck_vestiel",
@@ -18116,6 +18169,11 @@
     "name": "Frank Harts",
     "birth_year": 1979,
     "path": "data/people/p_frank_harts.json"
+  },
+  {
+    "id": "p_frank_helfer",
+    "name": "Frank Helfer",
+    "path": "data/people/p_frank_helfer.json"
   },
   {
     "id": "p_frank_henenlotter",
@@ -21128,6 +21186,12 @@
     "path": "data/people/p_freddy_flores.json"
   },
   {
+    "id": "p_freddy_gigele",
+    "name": "Freddy Gigele",
+    "birth_year": 1961,
+    "path": "data/people/p_freddy_gigele.json"
+  },
+  {
     "id": "p_freddy_lim",
     "name": "Freddy Lim",
     "birth_year": 1976,
@@ -21606,6 +21670,12 @@
     "name": "Frédéric Maranber",
     "birth_year": 1970,
     "path": "data/people/p_frederic_maranber.json"
+  },
+  {
+    "id": "p_frederic_mauerhofer",
+    "name": "Frederic Mauerhofer",
+    "birth_year": 1972,
+    "path": "data/people/p_frederic_mauerhofer.json"
   },
   {
     "id": "p_frederic_merlo",
@@ -23896,6 +23966,12 @@
     "name": "Funda Şirinkal",
     "birth_year": 1970,
     "path": "data/people/p_funda_sirinkal.json"
+  },
+  {
+    "id": "p_fung_chifung",
+    "name": "Fung Chi-Fung",
+    "birth_year": 1972,
+    "path": "data/people/p_fung_chifung.json"
   },
   {
     "id": "p_fung_chihchiang",
