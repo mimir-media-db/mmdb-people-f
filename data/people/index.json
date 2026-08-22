@@ -2710,6 +2710,12 @@
     "path": "data/people/p_fanny_henonlevy.json"
   },
   {
+    "id": "p_fanny_herrero",
+    "name": "Fanny Herrero",
+    "birth_year": 1974,
+    "path": "data/people/p_fanny_herrero.json"
+  },
+  {
     "id": "p_fanny_ketter",
     "name": "Fanny Ketter",
     "birth_year": 1996,
@@ -8250,6 +8256,11 @@
     "name": "Fernando Castets",
     "birth_year": 1959,
     "path": "data/people/p_fernando_castets.json"
+  },
+  {
+    "id": "p_fernando_castro_medina",
+    "name": "Fernando Castro Medina",
+    "path": "data/people/p_fernando_castro_medina.json"
   },
   {
     "id": "p_fernando_cavenaghi",
@@ -22271,6 +22282,12 @@
     "path": "data/people/p_frederic_norbert.json"
   },
   {
+    "id": "p_frederic_norel",
+    "name": "Frédéric Norel",
+    "birth_year": 1972,
+    "path": "data/people/p_frederic_norel.json"
+  },
+  {
     "id": "p_frederic_north",
     "name": "Frédéric North",
     "path": "data/people/p_frederic_north.json"
@@ -23980,6 +23997,12 @@
     "name": "Fritz Schediwy",
     "birth_year": 1943,
     "path": "data/people/p_fritz_schediwy.json"
+  },
+  {
+    "id": "p_fritz_schindlecker",
+    "name": "Fritz Schindlecker",
+    "birth_year": 1953,
+    "path": "data/people/p_fritz_schindlecker.json"
   },
   {
     "id": "p_fritz_weaver",
